@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="File '~/ws/unroll/graal/compiler/src/org.graalvm.compiler.loop.test/src/org/graalvm/compiler/loop/test/LoopPartialUnrollExtraTest.java [org.graalvm.compiler.loop.test]'" />
+    <option name="defaultScopeName" value="File '~/ws/unroll/graal/compiler/src/org.graalvm.compiler.loop.test/src/org/graalvm/compiler/loop/test/LoopPartialUnrollExtraTest.java [org.graalvm.compiler.loop.test]'" />
+    <option name="SEARCH_SCOPE" value="File '~/ws/unroll/graal/compiler/src/org.graalvm.compiler.loop.test/src/org/graalvm/compiler/loop/test/LoopPartialUnrollExtraTest.java [org.graalvm.compiler.loop.test]'" />
   </component>
 </application>
