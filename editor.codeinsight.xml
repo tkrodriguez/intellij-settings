@@ -1,4 +1,7 @@
 <application>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="sun.security.jca" />
+  </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseOneLineMethods" value="false" />
   </component>
