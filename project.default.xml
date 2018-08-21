@@ -1,6 +1,20 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
+      <component name="CheckStyle-IDEA">
+        <option name="configuration">
+          <map>
+            <entry key="checkstyle-version" value="8.7" />
+            <entry key="copy-libs" value="false" />
+            <entry key="last-active-plugin-version" value="5.16.3" />
+            <entry key="location-0" value="BUNDLED:(bundled):Sun Checks" />
+            <entry key="location-1" value="BUNDLED:(bundled):Google Checks" />
+            <entry key="scan-before-checkin" value="false" />
+            <entry key="scanscope" value="JavaOnly" />
+            <entry key="suppress-errors" value="false" />
+          </map>
+        </option>
+      </component>
       <component name="MarkdownProjectSettings">
         <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="true" highlightPreviewType="NONE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="false" showSelectionInPreview="true">
           <PanelProvider>
@@ -69,13 +83,27 @@
           <textMaps />
         </LinkMapSettings>
       </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+      </component>
+      <component name="RunDashboard">
+        <option name="ruleStates">
+          <list>
+            <RuleState>
+              <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+            </RuleState>
+            <RuleState>
+              <option name="name" value="StatusDashboardGroupingRule" />
+            </RuleState>
+          </list>
+        </option>
+      </component>
       <component name="RunManager">
         <configuration default="true" type="Applet" factoryName="Applet">
           <option name="WIDTH" value="400" />
           <option name="HEIGHT" value="300" />
           <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
           <module />
-          <method />
         </configuration>
         <configuration default="true" type="Application" factoryName="Application">
           <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -90,7 +118,6 @@
           <option name="PASS_PARENT_ENVS" value="true" />
           <module name="" />
           <envs />
-          <method />
         </configuration>
         <configuration default="true" type="JUnit" factoryName="JUnit">
           <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -111,7 +138,6 @@
           </option>
           <envs />
           <patterns />
-          <method />
         </configuration>
         <configuration default="true" type="Remote" factoryName="Remote">
           <option name="USE_SOCKET_TRANSPORT" value="true" />
@@ -119,7 +145,6 @@
           <option name="SHMEM_ADDRESS" value="javadebug" />
           <option name="HOST" value="localhost" />
           <option name="PORT" value="5005" />
-          <method />
         </configuration>
         <configuration default="true" type="TestNG" factoryName="TestNG">
           <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -147,16 +172,30 @@
           <envs />
           <properties />
           <listeners />
-          <method />
         </configuration>
-        <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+          <module name="" />
           <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+          <option name="PROGRAM_PARAMETERS" />
+          <predefined_log_file id="idea.log" enabled="true" />
         </configuration>
+      </component>
+      <component name="SaveActionSettings">
+        <option name="actions">
+          <set>
+            <option value="activate" />
+            <option value="activateOnShortcut" />
+            <option value="organizeImports" />
+            <option value="reformat" />
+          </set>
+        </option>
+        <option name="configurationPath" value="" />
       </component>
       <component name="masterDetails">
         <states>
           <state key="ProjectJDKs.UI">
             <settings>
+              <last-edited>1.8</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>

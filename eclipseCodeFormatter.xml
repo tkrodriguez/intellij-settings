@@ -3,19 +3,16 @@
     <option name="settingsList">
       <list>
         <Settings>
-          <option name="defaultSettings" value="true" />
           <option name="id" value="1496258315262" />
           <option name="name" value="default" />
         </Settings>
         <Settings>
-          <option name="eclipseVersion" value="ECLIPSE_44" />
           <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1450878132508" />
           <option name="importOrderConfigFilePath" value="$USER_HOME$/ws/unroll/graal-enterprise/substratevm/.idea/EclipseImports.prefs" />
           <option name="importOrderFromFile" value="true" />
           <option name="name" value="substratevm" />
           <option name="pathToConfigFileJava" value="$USER_HOME$/ws/unroll/graal-enterprise/substratevm/.idea/EclipseCodeFormatter.prefs" />
-          <option name="useOldEclipseJavaFormatter" value="true" />
         </Settings>
       </list>
     </option>
