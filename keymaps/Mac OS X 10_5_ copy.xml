@@ -27,10 +27,24 @@
   </action>
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift meta g" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="IncrementalSearch">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="IpnbRunAllCellsAction">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="MakeModule">
+    <keyboard-shortcut first-keystroke="ctrl meta f9" />
+  </action>
   <action id="MarkdownNavigator.ListUnIndent" />
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
+  <action id="NewScratchFile" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="meta alt r" />
     <keyboard-shortcut first-keystroke="f9" />
