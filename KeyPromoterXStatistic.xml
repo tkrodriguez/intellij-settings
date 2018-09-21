@@ -6,7 +6,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9' or '⌃F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -14,7 +14,7 @@
           <IdeaActionID>ChangeSignature</IdeaActionID>
           <ShortCut>'⌘F6'</ShortCut>
           <Description>Change Signature...</Description>
-          <Count>3</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Column Selection Mode">
@@ -57,12 +57,20 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug">
+        <Item>
+          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
+          <ShortCut>'⌘5'</ShortCut>
+          <Description>Debug</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>752</Count>
+          <Count>898</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -118,7 +126,7 @@
           <IdeaActionID>CompileProject</IdeaActionID>
           <ShortCut>'⇧⌘F9'</ShortCut>
           <Description>Rebuild Project</Description>
-          <Count>20</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Safe Delete...">
@@ -135,6 +143,14 @@
           <ShortCut>'⌘7'</ShortCut>
           <Description>Structure</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="TODO">
+        <Item>
+          <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
+          <ShortCut>'⌘6'</ShortCut>
+          <Description>TODO</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -166,7 +182,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
     </option>
