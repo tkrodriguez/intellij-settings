@@ -46,7 +46,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'⇧⌘C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>12</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -70,7 +70,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>990</Count>
+          <Count>991</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -94,6 +94,22 @@
           <IdeaActionID>ActivateHierarchyToolWindow</IdeaActionID>
           <ShortCut>'⌘8'</ShortCut>
           <Description>Hierarchy</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open in GitHub">
+        <Item>
+          <IdeaActionID>uk.co.ben_gibson.git.link.UI.Action.Menu.MenuAction.Browser</IdeaActionID>
+          <ShortCut>'⌃⇧O'</ShortCut>
+          <Description>Open in GitHub</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open in Stash">
+        <Item>
+          <IdeaActionID>uk.co.ben_gibson.git.link.UI.Action.Menu.MenuAction.Browser</IdeaActionID>
+          <ShortCut>'⌃⇧O'</ShortCut>
+          <Description>Open in Stash</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
