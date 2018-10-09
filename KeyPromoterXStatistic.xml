@@ -153,12 +153,28 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run...">
+        <Item>
+          <IdeaActionID>ChooseRunConfiguration</IdeaActionID>
+          <ShortCut>'⌃⌥R'</ShortCut>
+          <Description>Run...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Safe Delete...">
         <Item>
           <IdeaActionID>SafeDelete</IdeaActionID>
           <ShortCut>'⌘⌦'</ShortCut>
           <Description>Safe Delete...</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Select All">
+        <Item>
+          <IdeaActionID>$SelectAll</IdeaActionID>
+          <ShortCut>'⌘A'</ShortCut>
+          <Description>Select All</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
