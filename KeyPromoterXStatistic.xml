@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1223</Count>
+          <Count>1231</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -118,7 +118,7 @@
           <IdeaActionID>uk.co.ben_gibson.git.link.UI.Action.Menu.MenuAction.Browser</IdeaActionID>
           <ShortCut>'⌃⇧O'</ShortCut>
           <Description>Open in Stash</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Optimize Imports">
