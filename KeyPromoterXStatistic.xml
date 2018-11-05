@@ -118,7 +118,7 @@
           <IdeaActionID>uk.co.ben_gibson.git.link.UI.Action.Menu.MenuAction.Browser</IdeaActionID>
           <ShortCut>'⌃⇧O'</ShortCut>
           <Description>Open in Stash</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Optimize Imports">
