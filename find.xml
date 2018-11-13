@@ -14,5 +14,6 @@
     <mask>*.mxml</mask>
     <mask>*Test.java</mask>
     <mask>*HotSpot*</mask>
+    <mask>*test.java</mask>
   </component>
 </application>
