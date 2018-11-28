@@ -54,7 +54,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌥⇧⌘C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Stash link to clipboard">
@@ -62,7 +62,7 @@
           <IdeaActionID>uk.co.ben_gibson.git.link.UI.Action.Menu.MenuAction.Clipboard</IdeaActionID>
           <ShortCut>'⌃⇧C'</ShortCut>
           <Description>Copy Stash link to clipboard</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1512</Count>
+          <Count>1515</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
