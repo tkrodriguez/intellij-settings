@@ -62,7 +62,7 @@
           <IdeaActionID>uk.co.ben_gibson.git.link.UI.Action.Menu.MenuAction.Clipboard</IdeaActionID>
           <ShortCut>'⌃⇧C'</ShortCut>
           <Description>Copy Stash link to clipboard</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1891</Count>
+          <Count>1904</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
