@@ -6,7 +6,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9' or '⌃F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>21</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -46,7 +46,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'⇧⌘C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>21</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -54,7 +54,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌥⇧⌘C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>16</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Stash link to clipboard">
@@ -62,7 +62,7 @@
           <IdeaActionID>uk.co.ben_gibson.git.link.UI.Action.Menu.MenuAction.Clipboard</IdeaActionID>
           <ShortCut>'⌃⇧C'</ShortCut>
           <Description>Copy Stash link to clipboard</Description>
-          <Count>12</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1909</Count>
+          <Count>2149</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -150,7 +150,7 @@
           <IdeaActionID>FindBugs.PreviewSelectBugInstance</IdeaActionID>
           <ShortCut>'⌥Q' or '⌥Button1 Click'</ShortCut>
           <Description>Preview the current selected bug.</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -166,7 +166,7 @@
           <IdeaActionID>CompileProject</IdeaActionID>
           <ShortCut>'⇧⌘F9'</ShortCut>
           <Description>Rebuild Project</Description>
-          <Count>33</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -238,7 +238,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>55</Count>
+          <Count>58</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Hierarchy">
@@ -263,6 +263,14 @@
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="View Breakpoints...">
+        <Item>
+          <IdeaActionID>ViewBreakpoints</IdeaActionID>
+          <ShortCut>'⇧⌘F8'</ShortCut>
+          <Description>View Breakpoints...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
