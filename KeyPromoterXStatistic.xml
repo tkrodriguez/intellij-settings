@@ -62,7 +62,7 @@
           <IdeaActionID>uk.co.ben_gibson.git.link.UI.Action.Menu.MenuAction.Clipboard</IdeaActionID>
           <ShortCut>'⌃⇧C'</ShortCut>
           <Description>Copy Stash link to clipboard</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
