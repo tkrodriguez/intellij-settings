@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2512</Count>
+          <Count>2514</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -110,6 +110,14 @@
           <IdeaActionID>Move</IdeaActionID>
           <ShortCut>'F6'</ShortCut>
           <Description>Move...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open in Bitbucket Server">
+        <Item>
+          <IdeaActionID>uk.co.ben_gibson.git.link.UI.Action.MenuAction</IdeaActionID>
+          <ShortCut>'⌃⇧O'</ShortCut>
+          <Description>Open in Bitbucket Server</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
