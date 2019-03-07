@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2514</Count>
+          <Count>2520</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -86,7 +86,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>9</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Structure">
@@ -103,6 +103,14 @@
           <ShortCut>'⌘8'</ShortCut>
           <Description>Hierarchy</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Messages">
+        <Item>
+          <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
+          <ShortCut>'⌘0'</ShortCut>
+          <Description>Messages</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
