@@ -6,7 +6,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9' or '⌃F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>28</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -14,7 +14,7 @@
           <IdeaActionID>ChangeSignature</IdeaActionID>
           <ShortCut>'⌘F6'</ShortCut>
           <Description>Change Signature...</Description>
-          <Count>16</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Column Selection Mode">
@@ -46,7 +46,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'⇧⌘C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>33</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -62,7 +62,7 @@
           <IdeaActionID>uk.co.ben_gibson.git.link.UI.Action.Menu.MenuAction.Clipboard</IdeaActionID>
           <ShortCut>'⌃⇧C'</ShortCut>
           <Description>Copy Stash link to clipboard</Description>
-          <Count>21</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2490</Count>
+          <Count>2582</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -86,7 +86,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>9</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Structure">
@@ -105,11 +105,27 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Messages">
+        <Item>
+          <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
+          <ShortCut>'⌘0'</ShortCut>
+          <Description>Messages</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Move...">
         <Item>
           <IdeaActionID>Move</IdeaActionID>
           <ShortCut>'F6'</ShortCut>
           <Description>Move...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open in Bitbucket Server">
+        <Item>
+          <IdeaActionID>uk.co.ben_gibson.git.link.UI.Action.MenuAction</IdeaActionID>
+          <ShortCut>'⌃⇧O'</ShortCut>
+          <Description>Open in Bitbucket Server</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -126,7 +142,7 @@
           <IdeaActionID>uk.co.ben_gibson.git.link.UI.Action.Menu.MenuAction.Browser</IdeaActionID>
           <ShortCut>'⌃⇧O'</ShortCut>
           <Description>Open in Stash</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Optimize Imports">
@@ -158,7 +174,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>11</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Project">
@@ -166,7 +182,7 @@
           <IdeaActionID>CompileProject</IdeaActionID>
           <ShortCut>'⇧⌘F9'</ShortCut>
           <Description>Rebuild Project</Description>
-          <Count>38</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -174,7 +190,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>2</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
