@@ -4,9 +4,10 @@
     <property name="created">2017-05-31T16:53:43</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2017.1.3.0.0</property>
-    <property name="modified">2018-04-05T13:23:53</property>
+    <property name="modified">2019-03-25T11:19:50</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="11" />
   <option name="EDITOR_FONT_NAME" value="Ayuthaya" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -15,6 +16,31 @@
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="543333" />
+      </value>
+    </option>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="6cc660" />
+      </value>
+    </option>
+    <option name="DEFAULT_CLASS_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="75c671" />
+      </value>
+    </option>
+    <option name="DEFAULT_INTERFACE_NAME">
+      <value>
+        <option name="FOREGROUND" value="a8d05c" />
+      </value>
+    </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="5196c6" />
+      </value>
+    </option>
+    <option name="DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="748dc6" />
       </value>
     </option>
     <option name="ERRORS_ATTRIBUTES">
