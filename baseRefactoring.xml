@@ -8,7 +8,6 @@
     <option name="MOVE_PREVIEW_USAGES" value="false" />
     <option name="PULL_UP_MEMBERS_JAVADOC" value="2" />
     <option name="INLINE_METHOD_THIS" value="true" />
-    <option name="INLINE_FIELD_THIS" value="true" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
   </component>
 </application>
