@@ -13,7 +13,7 @@
     <mask>*.mxml</mask>
     <mask>*test.java</mask>
     <mask>*.java</mask>
-    <mask>*Test.java</mask>
     <mask>*ArrayCopy*</mask>
+    <mask>*Test.java</mask>
   </component>
 </application>
