@@ -16,5 +16,6 @@
     <mask>*.java</mask>
     <mask>*ArrayCopy*</mask>
     <mask>*Test.java</mask>
+    <mask>*snip*</mask>
   </component>
 </application>
