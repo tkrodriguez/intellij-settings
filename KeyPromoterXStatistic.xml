@@ -142,7 +142,7 @@
           <IdeaActionID>uk.co.ben_gibson.git.link.UI.Action.MenuAction</IdeaActionID>
           <ShortCut>'⌃⇧O'</ShortCut>
           <Description>Open in Bitbucket Server</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open in GitHub">
