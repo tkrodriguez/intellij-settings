@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4468</Count>
+          <Count>4470</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -207,6 +207,14 @@
           <ShortCut>'⇧⌘F9'</ShortCut>
           <Description>Rebuild Project</Description>
           <Count>57</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recent Changes">
+        <Item>
+          <IdeaActionID>RecentChanges</IdeaActionID>
+          <ShortCut>'⌥⇧C'</ShortCut>
+          <Description>Recent Changes</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
