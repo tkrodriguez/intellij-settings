@@ -1,3 +1,12 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
+  <inspection_tool class="AnonymousHasLambdaAlternative" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="Convert2Lambda" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="EmptyStatementBody" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="m_reportEmptyBlocks" value="true" />
+    <option name="commentsAreContent" value="true" />
+  </inspection_tool>
+  <inspection_tool class="JavadocReference" enabled="true" level="ERROR" enabled_by_default="true">
+    <option name="REPORT_INACCESSIBLE" value="false" />
+  </inspection_tool>
 </profile>
