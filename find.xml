@@ -15,9 +15,9 @@
     <mask>*snip*</mask>
     <mask>*test.java</mask>
     <mask>*</mask>
-    <mask>*.java</mask>
-    <mask>*.java</mask>
     <mask>*truffle*Test.java</mask>
+    <mask>*.java</mask>
+    <mask>*.java</mask>
     <mask>*Test.java</mask>
   </component>
 </application>
