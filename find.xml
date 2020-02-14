@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'substratevm-enterprise'" />
+    <option name="defaultScopeName" value="Project 'substratevm-enterprise'" />
+    <option name="SEARCH_SCOPE" value="Project 'substratevm-enterprise'" />
     <option name="FILE_MASK" value="*Snippets.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
