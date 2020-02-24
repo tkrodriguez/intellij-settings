@@ -1,12 +1,13 @@
 <application>
+  <component name="DependencyUISettings">
+    <option name="UI_SHOW_MODULES" value="false" />
+  </component>
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="20" />
     <option name="EDITOR_TAB_PLACEMENT" value="3" />
-    <option name="FONT_FACE" value=".SFNSText-Regular" />
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
-    <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="SHOW_CLOSE_BUTTON" value="false" />
     <option name="SHOW_ICONS_IN_MENUS" value="false" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
