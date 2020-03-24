@@ -30,7 +30,7 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/../../graal/compiler" />
     </exec>
     <filter>
-      <option name="NAME" value="No name" />
+      <option name="NAME" />
       <option name="DESCRIPTION" />
       <option name="REGEXP" value="$FILE_PATH$:$LINE$" />
     </filter>
