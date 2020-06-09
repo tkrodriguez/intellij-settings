@@ -23,16 +23,21 @@
       <option name="REGEXP" value="$FILE_PATH$:$LINE$" />
     </filter>
   </tool>
-  <tool name="mx compiler fullbuild" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="mx compiler style checks" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="mx" />
-      <option name="PARAMETERS" value="gate --tags fullbuild,style" />
+      <option name="COMMAND" value="mxgatestyle" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/../../graal/compiler" />
     </exec>
     <filter>
       <option name="NAME" value="No name" />
       <option name="DESCRIPTION" />
-      <option name="REGEXP" value="$FILE_PATH$:$LINE$" />
+      <option name="REGEXP" value="$FILE_PATH$:$LINE$.*" />
+    </filter>
+    <filter>
+      <option name="NAME" value="No name" />
+      <option name="DESCRIPTION" />
+      <option name="REGEXP" value="$FILE_PATH$ .at line $LINE$.*" />
     </filter>
   </tool>
 </toolSet>

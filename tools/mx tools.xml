@@ -1,0 +1,19 @@
+<toolSet name="mx tools">
+  <tool name="mx compiler command" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="mx" />
+      <option name="PARAMETERS" value="$Prompt$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/../../graal/compiler" />
+    </exec>
+    <filter>
+      <option name="NAME" value="No name" />
+      <option name="DESCRIPTION" />
+      <option name="REGEXP" value="$FILE_PATH$:$LINE$.*" />
+    </filter>
+    <filter>
+      <option name="NAME" value="No name" />
+      <option name="DESCRIPTION" />
+      <option name="REGEXP" value="$FILE_PATH$ .at line $LINE$.*" />
+    </filter>
+  </tool>
+</toolSet>
