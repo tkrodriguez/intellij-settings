@@ -16,13 +16,13 @@
     <mask>*test.java</mask>
     <mask>*</mask>
     <mask>*truffle*Test.java</mask>
-    <mask>*.java</mask>
-    <mask>*.java</mask>
     <mask>*graal*.java</mask>
     <mask>*graalser*.java</mask>
     <mask>*String*.java</mask>
     <mask>*Snippets.java</mask>
     <mask>Plugin*.java</mask>
     <mask>*Test.java</mask>
+    <mask>*.java</mask>
+    <mask>*.java</mask>
   </component>
 </application>
