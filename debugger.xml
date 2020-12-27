@@ -208,17 +208,17 @@
       <option name="SHOW_HEX_VALUE" value="true" />
     </Renderer>
     <CustomRenderers VERSION="8">
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
         <option name="NAME" value="float" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="float" />
       </Renderer>
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
         <option name="NAME" value="double" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="double" />
       </Renderer>
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
         <option name="NAME" value="Hex" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="float" />
@@ -228,7 +228,7 @@
           <option name="LABEL_EXPRESSION" value="Integer.toHexString(Float.floatToRawIntBits(this))&#13;java.lang.Integer&#13;JAVA" />
         </Renderer>
       </Renderer>
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
         <option name="NAME" value="Hex" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="double" />
@@ -246,12 +246,5 @@
       <option name="hideDebuggerOnProcessTermination" value="true" />
       <scroll-to-center>true</scroll-to-center>
     </general>
-    <debuggers>
-      <debugger id="kotlin_debugger">
-        <configuration>
-          <option name="filterForStdlibAlreadyAdded" value="true" />
-        </configuration>
-      </debugger>
-    </debuggers>
   </component>
 </application>
