@@ -21,8 +21,8 @@
     <mask>*String*.java</mask>
     <mask>*Snippets.java</mask>
     <mask>Plugin*.java</mask>
+    <mask>*.java</mask>
+    <mask>*.java</mask>
     <mask>*Test.java</mask>
-    <mask>*.java</mask>
-    <mask>*.java</mask>
   </component>
 </application>
