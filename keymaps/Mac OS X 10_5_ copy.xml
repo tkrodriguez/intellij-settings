@@ -32,6 +32,7 @@
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="MarkdownNavigator.ListUnIndent" />
+  <action id="MethodUp" />
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
@@ -55,10 +56,12 @@
   <action id="VcsShowNextChangeMarker">
     <keyboard-shortcut first-keystroke="shift ctrl alt down" />
     <keyboard-shortcut first-keystroke="shift alt page_down" />
+    <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
   <action id="VcsShowPrevChangeMarker">
     <keyboard-shortcut first-keystroke="shift ctrl alt up" />
     <keyboard-shortcut first-keystroke="shift alt page_up" />
+    <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
