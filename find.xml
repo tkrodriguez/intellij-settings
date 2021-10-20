@@ -1,15 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Changed Files" />
-    <option name="defaultScopeName" value="All Changed Files" />
-    <option name="SEARCH_SCOPE" value="All Changed Files" />
-    <mask>*.properties</mask>
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
-    <mask>*.xml</mask>
+    <option name="customScope" value="Project 'substratevm-enterprise'" />
+    <option name="defaultScopeName" value="Project 'substratevm-enterprise'" />
+    <option name="SEARCH_SCOPE" value="Project 'substratevm-enterprise'" />
     <mask>*.js</mask>
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*ArrayCopy*</mask>
     <mask>*snip*</mask>
@@ -22,7 +17,12 @@
     <mask>*Snippets.java</mask>
     <mask>Plugin*.java</mask>
     <mask>*.java</mask>
-    <mask>*.java</mask>
     <mask>*Test.java</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
   </component>
 </application>
