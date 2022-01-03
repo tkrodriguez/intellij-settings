@@ -1,12 +1,5 @@
 <application>
   <component name="EclipseCodeFormatterSettings">
-    <option name="donationNagger">
-      <DonationNagger>
-        <option name="actionsExecuted" value="5481" />
-        <option name="firstUsage" value="1547490232547" />
-        <option name="firstUsedVersion" value="18.2.181.000.0-Eclipse_4.9.0" />
-        <option name="lastNaggingDate" value="1551751384659" />
-      </DonationNagger>
-    </option>
+    <option name="pathToEclipse" value="$USER_HOME$/Downloads/eclipse-4.14/Eclipse.app/Contents/Eclipse" />
   </component>
 </application>
