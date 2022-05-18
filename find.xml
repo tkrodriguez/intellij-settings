@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '~/ws/unroll/graal/compiler/src/org.graalvm.compiler.hotspot.test/src/org/graalvm/compiler/hotspot/test/LibGraalCompileTimeBenchmark.java [org.graalvm.compiler.hotspot.test]'" />
+    <option name="defaultScopeName" value="File '~/ws/unroll/graal/compiler/src/org.graalvm.compiler.hotspot.test/src/org/graalvm/compiler/hotspot/test/LibGraalCompileTimeBenchmark.java [org.graalvm.compiler.hotspot.test]'" />
+    <option name="SEARCH_SCOPE" value="File '~/ws/unroll/graal/compiler/src/org.graalvm.compiler.hotspot.test/src/org/graalvm/compiler/hotspot/test/LibGraalCompileTimeBenchmark.java [org.graalvm.compiler.hotspot.test]'" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
