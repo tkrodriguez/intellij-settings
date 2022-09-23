@@ -33,4 +33,38 @@
       <option name="REGEXP" value="$FILE_PATH$ .at line $LINE$.*" />
     </filter>
   </tool>
+  <tool name="mx substratevm command" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="mx" />
+      <option name="PARAMETERS" value="$Prompt$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/../../graal/substratevm" />
+    </exec>
+    <filter>
+      <option name="NAME" value="" />
+      <option name="DESCRIPTION" value="" />
+      <option name="REGEXP" value="$FILE_PATH$:$LINE$.*" />
+    </filter>
+    <filter>
+      <option name="NAME" value="" />
+      <option name="DESCRIPTION" value="" />
+      <option name="REGEXP" value="$FILE_PATH$ .at line $LINE$.*" />
+    </filter>
+  </tool>
+  <tool name="mx substratevm enterprise command" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="mx" />
+      <option name="PARAMETERS" value="$Prompt$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/../../graal-enterprise/substratevm-enterprise" />
+    </exec>
+    <filter>
+      <option name="NAME" value="" />
+      <option name="DESCRIPTION" value="" />
+      <option name="REGEXP" value="$FILE_PATH$:$LINE$.*" />
+    </filter>
+    <filter>
+      <option name="NAME" value="" />
+      <option name="DESCRIPTION" value="" />
+      <option name="REGEXP" value="$FILE_PATH$ .at line $LINE$.*" />
+    </filter>
+  </tool>
 </toolSet>
