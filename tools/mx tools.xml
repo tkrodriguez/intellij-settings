@@ -40,12 +40,12 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/../../graal/substratevm" />
     </exec>
     <filter>
-      <option name="NAME" />
+      <option name="NAME" value="No name" />
       <option name="DESCRIPTION" />
       <option name="REGEXP" value="$FILE_PATH$:$LINE$.*" />
     </filter>
     <filter>
-      <option name="NAME" />
+      <option name="NAME" value="No name" />
       <option name="DESCRIPTION" />
       <option name="REGEXP" value="$FILE_PATH$ .at line $LINE$.*" />
     </filter>
@@ -57,12 +57,12 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/../../graal-enterprise/substratevm-enterprise" />
     </exec>
     <filter>
-      <option name="NAME" />
+      <option name="NAME" value="No name" />
       <option name="DESCRIPTION" />
       <option name="REGEXP" value="$FILE_PATH$:$LINE$.*" />
     </filter>
     <filter>
-      <option name="NAME" />
+      <option name="NAME" value="No name" />
       <option name="DESCRIPTION" />
       <option name="REGEXP" value="$FILE_PATH$ .at line $LINE$.*" />
     </filter>

@@ -47,12 +47,12 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/../../graal-enterprise/graal-enterprise" />
     </exec>
     <filter>
-      <option name="NAME" />
+      <option name="NAME" value="No name" />
       <option name="DESCRIPTION" />
       <option name="REGEXP" value="$FILE_PATH$:$LINE$.*" />
     </filter>
     <filter>
-      <option name="NAME" />
+      <option name="NAME" value="No name" />
       <option name="DESCRIPTION" />
       <option name="REGEXP" value="$FILE_PATH$ .at line $LINE$.*" />
     </filter>
