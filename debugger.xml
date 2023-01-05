@@ -90,6 +90,15 @@
     </Renderer>
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="ConcurrentHashMap.Node" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="java.util.concurrent.ConcurrentHashMap.Node" />
+        <Renderer ID="EnumerationChildrenRenderer" role="children">
+          <option name="QUALIFIED_NAME" value="java.util.concurrent.ConcurrentHashMap.Node" />
+          <option name="AppendDefault" value="true" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
         <option name="NAME" value="long with binary" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="long" />
