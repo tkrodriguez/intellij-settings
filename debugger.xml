@@ -93,6 +93,11 @@
         <option name="NAME" value="ConcurrentHashMap.Node" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="java.util.concurrent.ConcurrentHashMap.Node" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="java.util.concurrent.ConcurrentHashMap.Node" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="&quot;key: &quot; + this.key + &quot; hash: &quot; + this.hash + &quot; spread(hashCode): &quot; +  ((this.key.hashCode() ^ (this.key.hashCode() &gt;&gt;&gt; 16)) &amp; ConcurrentHashMap.HASH_BITS)&#13;&#13;JAVA" />
+        </Renderer>
         <Renderer ID="EnumerationChildrenRenderer" role="children">
           <option name="QUALIFIED_NAME" value="java.util.concurrent.ConcurrentHashMap.Node" />
           <option name="AppendDefault" value="true" />
