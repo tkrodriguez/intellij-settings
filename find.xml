@@ -1,34 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.js</mask>
-    <mask>*.as</mask>
-    <mask>*.mxml</mask>
-    <mask>*ArrayCopy*</mask>
-    <mask>*snip*</mask>
-    <mask>*test.java</mask>
-    <mask>*</mask>
-    <mask>*truffle*Test.java</mask>
-    <mask>*graal*.java</mask>
-    <mask>*graalser*.java</mask>
-    <mask>*String*.java</mask>
-    <mask>*Snippets.java</mask>
-    <mask>Plugin*.java</mask>
-    <mask>*Test.java</mask>
-    <mask>*.java</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>aarch**.java</mask>
-    <mask>*snippet*.java</mask>
   </component>
 </application>
