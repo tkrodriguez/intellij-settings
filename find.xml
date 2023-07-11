@@ -11,5 +11,6 @@
     <mask>*.java</mask>
     <mask>*vector*</mask>
     <mask>*Test.java</mask>
+    <mask>*methodHandle*</mask>
   </component>
 </application>
