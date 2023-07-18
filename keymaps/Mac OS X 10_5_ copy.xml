@@ -61,15 +61,11 @@
   </action>
   <action id="VcsShowNextChangeMarker">
     <keyboard-shortcut first-keystroke="shift ctrl alt down" />
-    <keyboard-shortcut first-keystroke="shift alt page_down" />
     <keyboard-shortcut first-keystroke="ctrl down" />
-    <keyboard-shortcut first-keystroke="shift meta down" />
   </action>
   <action id="VcsShowPrevChangeMarker">
     <keyboard-shortcut first-keystroke="shift ctrl alt up" />
-    <keyboard-shortcut first-keystroke="shift alt page_up" />
     <keyboard-shortcut first-keystroke="ctrl up" />
-    <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
