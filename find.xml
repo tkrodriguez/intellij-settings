@@ -12,5 +12,6 @@
     <mask>*vector*</mask>
     <mask>*methodHandle*</mask>
     <mask>*Test.java</mask>
+    <mask>*lir*</mask>
   </component>
 </application>
