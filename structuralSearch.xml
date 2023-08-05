@@ -1,6 +1,11 @@
 <application>
   <component name="StructuralSearch">
-    <replaceConfiguration name="assert to guarantee" text="assert $Expr$ : $Expr$;" recursive="false" caseInsensitive="false" search_injected="false" reformatAccordingToStyle="true" shortenFQN="true" replacement="org.graalvm.compiler.debug.GraalError.guarantee($Expr$, $Expr$);">
+    <replaceConfiguration name="assert to guarantee" text="assert $Expr$ : $Expr2$;" recursive="false" caseInsensitive="false" type="JAVA" pattern_context="default" search_injected="false" reformatAccordingToStyle="true" shortenFQN="true" replacement="org.graalvm.compiler.debug.GraalError.guarantee($Expr$, $Expr2$);">
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="Expr" within="" contains="" />
+      <constraint name="Expr2" within="" contains="" />
+    </replaceConfiguration>
+    <replaceConfiguration name="no arg assert to guarantee" text="assert $Expr$;" recursive="false" caseInsensitive="false" type="JAVA" pattern_context="default" search_injected="false" reformatAccordingToStyle="true" shortenFQN="true" replacement="org.graalvm.compiler.debug.GraalError.guarantee($Expr$, &quot;%s&quot;, message);">
       <constraint name="__context__" within="" contains="" />
       <constraint name="Expr" within="" contains="" />
     </replaceConfiguration>
@@ -9,6 +14,10 @@
     <option name="templatesTreeState">
       <TreeState>
         <myExpandedPaths>
+          <array>
+            <item name="" type="" />
+            <item name="Saved Templates" type="cbb8eebc:String" />
+          </array>
           <array>
             <item name="" type="" />
             <item name="Java" type="cbb8eebc:String" />
@@ -65,7 +74,8 @@
         <mySelectedPaths>
           <array>
             <item name="" type="" />
-            <item name="" type="" />
+            <item name="Saved Templates" type="cbb8eebc:String" />
+            <item name="com.intellij.structuralsearch.plugin.replace.ui.ReplaceConfiguration@482b0bfc" type="f8f1b8f0:ReplaceConfiguration" />
           </array>
         </mySelectedPaths>
       </TreeState>
