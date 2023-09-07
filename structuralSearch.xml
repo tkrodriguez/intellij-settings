@@ -11,6 +11,7 @@
     </replaceConfiguration>
   </component>
   <component name="ui-state">
+    <option name="migrated" value="true" />
     <option name="templatesTreeState">
       <TreeState>
         <myExpandedPaths>
@@ -75,7 +76,7 @@
           <array>
             <item name="" type="" />
             <item name="Saved Templates" type="cbb8eebc:String" />
-            <item name="com.intellij.structuralsearch.plugin.replace.ui.ReplaceConfiguration@482b0bfc" type="f8f1b8f0:ReplaceConfiguration" />
+            <item name="com.intellij.structuralsearch.plugin.replace.ui.ReplaceConfiguration@bb91ce6f" type="f8f1b8f0:ReplaceConfiguration" />
           </array>
         </mySelectedPaths>
       </TreeState>
