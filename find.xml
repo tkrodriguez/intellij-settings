@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*test.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -14,5 +15,6 @@
     <mask>*lir*</mask>
     <mask>*Test.java</mask>
     <mask>*Partial*</mask>
+    <mask>*test.java</mask>
   </component>
 </application>
