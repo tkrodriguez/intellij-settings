@@ -75,13 +75,14 @@
         <mySelectedPaths>
           <array>
             <item name="" type="" />
-            <item name="Saved Templates" type="cbb8eebc:String" />
-            <item name="com.intellij.structuralsearch.plugin.replace.ui.ReplaceConfiguration@bb91ce6f" type="f8f1b8f0:ReplaceConfiguration" />
+            <item name="Java" type="cbb8eebc:String" />
+            <item name="Class-based" type="cbb8eebc:String" />
+            <item name="com.intellij.structuralsearch.plugin.ui.SearchConfiguration@d9c4d8ef" type="3c4764e4:SearchConfiguration" />
           </array>
         </mySelectedPaths>
       </TreeState>
     </option>
-    <option name="scopeType" value="NAMED" />
-    <option name="scopeDescriptor" value="Current File" />
+    <option name="scopeType" value="PROJECT" />
+    <option name="scopeDescriptor" value="" />
   </component>
 </application>
