@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'Data'" />
-    <option name="defaultScopeName" value="Module 'Data'" />
-    <option name="SEARCH_SCOPE" value="Module 'Data'" />
+    <option name="customScope" value="Project 'idealreportformat'" />
+    <option name="defaultScopeName" value="Project 'idealreportformat'" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="SEARCH_SCOPE" value="Project 'idealreportformat'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
