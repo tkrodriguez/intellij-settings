@@ -15,5 +15,6 @@
     <mask>*Test.java</mask>
     <mask>*Partial*</mask>
     <mask>*test.java</mask>
+    <mask>*Node.java</mask>
   </component>
 </application>
