@@ -12,9 +12,9 @@
     <mask>*vector*</mask>
     <mask>*methodHandle*</mask>
     <mask>*lir*</mask>
-    <mask>*Test.java</mask>
     <mask>*Partial*</mask>
     <mask>*test.java</mask>
     <mask>*Node.java</mask>
+    <mask>*Test.java</mask>
   </component>
 </application>
