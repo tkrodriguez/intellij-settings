@@ -18,7 +18,6 @@
     <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="analyze.exceptions.on.the.fly" value="true" />
-    <entry key="ide.experimental.ui" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
